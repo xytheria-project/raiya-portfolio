@@ -7,6 +7,10 @@ params:
     displayTitle: true
     displayLogo: false
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 menu:
   main:
     - identifier: games
