@@ -1,0 +1,222 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>raiya c - portfolio – Games and related projects</title>
+    <link>http://localhost:1313/games/</link>
+    <description>Recent content in Games and related projects on raiya c - portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jan 2026 17:03:42 -0800</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/games/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Wacky-quarium</title>
+      <link>http://localhost:1313/games/aquarium/</link>
+      <pubDate>Wed, 14 Jan 2026 18:42:24 -0800</pubDate>
+      
+      <guid>http://localhost:1313/games/aquarium/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;em&gt;&amp;ldquo;Wacky-quarium is a city builder where you start out building an aquascape to attract beneficial alien sea creatures&amp;hellip;but the sea creatures might have a mind of their own.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 2;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Role: Lead Developer&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Intending to release for PC using Unreal Engine&lt;/div&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;&gt;&lt;img
+        alt=&#34;&#34;
+        class=&#34;hextra-card-image&#34;
+        loading=&#34;lazy&#34;
+        decoding=&#34;async&#34;
+        src=&#34;http://localhost:1313/images/wackyquarium_hu_cf362259f3c15c4d.webp&#34;
+        width=&#34;800&#34;
+        height=&#34;309&#34;
+        
+      /&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Ugly dev build&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Wacky-quarium is my current project right now. Currently it&amp;rsquo;s at a state where it&amp;rsquo;s playable, but I&amp;rsquo;m missing a lot of the key &amp;lsquo;fun&amp;rsquo; mechanics. The plan right now is to build out a prototype to test the &amp;lsquo;fun&amp;rsquo; factor and then find collaborators to help me finish up and add polish.&lt;/p&gt;
+&lt;p&gt;In Wacky-quarium, you are an aquascaper trying to populate a biosphere on an alien planet. You start with a grid where you can place structures, like shells and plants. As you place structures down, creatures that are able to live in the conditions you&amp;rsquo;ve created will become residents of your biosphere. These fish will create resources that will help you support more variety of fish and build new structures.&lt;/p&gt;
+&lt;p&gt;The weird part is that your creatures might develop strange wants and needs that might be hard to satisfy. We have enough plants to provide food for our habitat, but what about the squids clamoring for a data archive? As the habitat progresses, you&amp;rsquo;ll need to strategically build and destroy structures, as well as invite and replace inhabitants, in order to fulfill the needs requested of you while keeping your fish alive and happy.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Agents of Interest</title>
+      <link>http://localhost:1313/games/agents/</link>
+      <pubDate>Wed, 14 Jan 2026 18:42:31 -0800</pubDate>
+      
+      <guid>http://localhost:1313/games/agents/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;em&gt;&amp;ldquo;A visual novel in a cyberpunk setting where you play a secret agent with the power to control time. Has multiple endings based on player choice.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project page:&lt;/strong&gt; &lt;a href=&#34;https://aceofclub.itch.io/agents-of-interest&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://aceofclub.itch.io/agents-of-interest&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 2;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Role: Background Artist&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Built for Browser, PC with Ren’py, Clip Studio Paint&lt;/div&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;https://aceofclub.itch.io/agents-of-interest&#34;
+      target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;img
+        alt=&#34;&#34;
+        class=&#34;hextra-card-image&#34;
+        loading=&#34;lazy&#34;
+        decoding=&#34;async&#34;
+        src=&#34;http://localhost:1313/images/aoi_2_hu_1e53ab2ebd8a1b26.webp&#34;
+        width=&#34;800&#34;
+        height=&#34;450&#34;
+        
+      /&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;cyberpunk bedroom&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Achievements: Ranked #33 of 121 game jam entries&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For Agents of Interest, I drew the title screen and the 11 backgrounds (non-character work) used throughout the visual novel. I worked with 5 other people who handled the character art, coding, music, writing and project management, and completed these drawings over two weeks.&lt;/p&gt;
+&lt;p&gt;This was my first completed game or art project in several years, and was a good return to what I enjoy about drawing and game development. I utilized real-life references for the external architecture, mainly hotels around my local area, but reimagined the interiors in a futuristic setting, taking inspiration from Cyberpunk 2077. I thoroughly enjoyed painting the lighting and learned a lot from my references. Most of the story had already been written by the time I joined the team, but in future projects I would love to be more creatively involved with the planning of the game.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Clone</title>
+      <link>http://localhost:1313/games/clone/</link>
+      <pubDate>Wed, 14 Jan 2026 18:42:40 -0800</pubDate>
+      
+      <guid>http://localhost:1313/games/clone/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;em&gt;&amp;ldquo;Clone is a 20-level puzzle game in which a boy gets lost in a forest and finds an alternate version of himself. They work together to find a way out. Along the way, he meets more lost individuals and can choose how to interact with them, leading to multiple endings.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project page:&lt;/strong&gt; &lt;a href=&#34;https://brian-royston.itch.io/clone&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://brian-royston.itch.io/clone&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 2;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Role: Main Artist, Associate Developer&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Built for PC, Mac with Unity, Clip Studio Paint&lt;/div&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;https://brian-royston.itch.io/clone&#34;
+      target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;img
+        alt=&#34;&#34;
+        class=&#34;hextra-card-image&#34;
+        loading=&#34;lazy&#34;
+        decoding=&#34;async&#34;
+        src=&#34;http://localhost:1313/images/clone_hu_e2c3bcfe0ee71d54.webp&#34;
+        width=&#34;800&#34;
+        height=&#34;450&#34;
+        
+      /&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;puzzle level&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;For Clone, I drew most of the tiles and characters and created 2D animations for them in Unity, along with creating the ending cutscenes. I also implemented the dialogue system and added logic to track character responses and deliver the alternate endings. I worked with 3 other developers, who mainly worked on the game logic and puzzle design.&lt;/p&gt;
+&lt;p&gt;Our goal in making this game was to build an interesting puzzle game with a small story element. The box puzzles were inspired by Baba is You and the story element is inspired by the game Catherine, where you can meet NPCs after doing puzzle sections and choose to comfort or chastise them. The player controlling the main character and another character with inverted controls is inspired by older flash games.&lt;/p&gt;
+&lt;p&gt;For the art direction, I wanted to stick with cool-toned colors to reflect the somber, mystical mood of the game. We wanted the main character Pero to seem like a normal person lost in a strange place, so that went into his relatively simple design with an orange jacket to contrast the green levels.&lt;/p&gt;
+&lt;p&gt;Clone was developed as part of the Game Development and Design DeCal at Berkeley, a student-run class where groups of four were tasked with developing a game together, while learning about art and game development best practices.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Cutscene Design and Implementation for Behavioral Study</title>
+      <link>http://localhost:1313/games/vrxdfc/</link>
+      <pubDate>Wed, 14 Jan 2026 18:42:53 -0800</pubDate>
+      
+      <guid>http://localhost:1313/games/vrxdfc/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;em&gt;&amp;ldquo;Animated 16 cutscenes using Unity Timeline to simulate different scenarios from the perspective of a user in a VR social space.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 2;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Role: Main Programmer&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Used Unity, Unity EditorTools and Timeline to record videos&lt;/div&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;&gt;&lt;img
+        alt=&#34;&#34;
+        class=&#34;hextra-card-image&#34;
+        loading=&#34;lazy&#34;
+        decoding=&#34;async&#34;
+        src=&#34;http://localhost:1313/images/unity_timeline_hu_7548e7706e2f1368.webp&#34;
+        width=&#34;800&#34;
+        height=&#34;273&#34;
+        
+      /&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Unity timeline&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;For this project, I used Unity Timeline to create cutscenes that would then be recorded into videos and used for social research. The cutscenes were each 2-8 minutes long and involved several characters moving in and out of frame, camera panning, voice lines with spatial audio, and particle effects. I moved the models to record keyframes and inserted audio or effects as the scripts dictated.&lt;/p&gt;
+&lt;p&gt;The project required certain scenarios to share significant portions of animation so I explored the EditorTools API in Unity and built some functionality to cut and paste keyframes, which was extremely useful and enabled me to distribute animation work to the other members of the research group.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;This work was part of a research group of 4 undergrad students led by Vivek Rao under the UC Berkeley Design for Cybersecurity group. Each cutscene scenario would present the situation that you were in a VR social space (like VRChat) and you would watch other people’s digital avatars commit social fallacies and then be subjected to moderation.&lt;/p&gt;
+&lt;p&gt;For example, in some scenarios a moderator player might explain the rule violation and mute the violator, and in other scenarios the rule violator would just disappear. Sometimes there would be no moderator and the scenario would indicate that other players were choosing to mute the violator individually. The research study intended to show these scenarios to people and discover people’s preferences of moderation on these scales (opaque vs transparent rules, centralized vs decentralized moderation, etc).&lt;/p&gt;
+&lt;p&gt;We completed making cutscenes and were in the process of designing the trial. I don’t know if this study was ever conducted as it was interrupted by several factors, namely the COVID-19 pandemic.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Project Landships</title>
+      <link>http://localhost:1313/games/landships/</link>
+      <pubDate>Wed, 14 Jan 2026 18:43:02 -0800</pubDate>
+      
+      <guid>http://localhost:1313/games/landships/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;em&gt;&amp;ldquo;A co-op multiplayer VR game in which two players control a tank as driver and gunner, and fight against other player-controlled tanks.  &amp;ldquo;&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 2;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Role: Associate Developer&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Built for Oculus Rift (VR) with Unity, Photon Engine&lt;/div&gt;&lt;/a&gt;
+  &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+        &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/taQlqYHo0tM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+      &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;For Project Landships, I tested out a variety of different networking options and tuned them. I would create different versions of the Unity project and mess around with settings, for example, changing which objects were tracked by the server or changing how they would communicate with the server, until we found something promising.&lt;/p&gt;
+&lt;p&gt;This was a multi-year long project run by a club in my university and had substantial work put into it before I joined. I joined for a semester and worked with four other people to make the existing VR tank battle game into a co-op multiplayer game.&lt;/p&gt;
+&lt;p&gt;There were many design challenges associated with this project: for example, the driver and gunner both pulled physics-based levers to control the tank. We had to decide if we wanted the state of the levers to be networked or if it would be local, and both options had drawbacks. A common issue was having the gunner and the driver de-sync and experience different states of the tank location at the same time. There was also the hassle of testing, as we had to use 2-3 computers and 2 people in order to run the multiplayer server and test two Oculus hosts controlling at the same time.&lt;/p&gt;
+&lt;p&gt;The design challenges were honestly the largest of the issues with making the game multiplayer - once we had worked out the quirks, Photon Engine took care of the rest and handled most of the networking complexity.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Mikas Forest</title>
+      <link>http://localhost:1313/games/mikas/</link>
+      <pubDate>Wed, 14 Jan 2026 18:43:09 -0800</pubDate>
+      
+      <guid>http://localhost:1313/games/mikas/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;em&gt;&amp;ldquo;Mika&amp;rsquo;s Forest is a puzzle game created for Mini Ludum Dare #69 where you try to flip all the tiles in a level as other creatures attempt to flip them back.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project page: &lt;a href=&#34;https://xytheria.itch.io/mikas-forest&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://xytheria.itch.io/mikas-forest&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 2;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Role: Solo Developer&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Built for PC using Unity&lt;/div&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;https://xytheria.itch.io/mikas-forest&#34;
+      target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;img
+        alt=&#34;&#34;
+        class=&#34;hextra-card-image&#34;
+        loading=&#34;lazy&#34;
+        decoding=&#34;async&#34;
+        src=&#34;http://localhost:1313/images/mika_hu_d4498a81eaf8ce5e.webp&#34;
+        width=&#34;800&#34;
+        height=&#34;619&#34;
+        
+      /&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Level 4 of Mika&amp;rsquo;s Forest&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Mika&amp;rsquo;s Forest was featured in &lt;a href=&#34;https://gamejolt.com/p/jam-favorites-minild-69-check-out-some-games-made-for-the-minild-yinbhnb3&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this article&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=amjEUImOHHQ&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this video&lt;/a&gt; by Jupiter Hadley!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Mika&amp;rsquo;s Forest was the first game I developed solo, and hopefully the last. I created the music, pixel art, narrative and programming for this game, and had to rush to meet the 2 week jam deadline.&lt;/p&gt;
+&lt;p&gt;The premise was to combine two game mechanics I liked from other games: using &amp;ldquo;pets&amp;rdquo; to take out enemies from afar and trying to &amp;ldquo;cover&amp;rdquo; all of a level to win like Splatoon or Bomberman. This was also my first foray into tile generation, which I still have a fondness for.&lt;/p&gt;
+&lt;p&gt;I learned a lot working on this, namely that two weeks is far too short to test out a puzzle game and that solo development is rough. While I did enjoy working on the various parts, I like being able to sink time into a specific area and split work as needed.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
