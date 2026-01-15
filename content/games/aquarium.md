@@ -1,6 +1,6 @@
 ---
 date: '2026-01-14T18:42:24-08:00'
-draft: true
+draft: false
 title: 'Wacky-quarium'
 weight: 1
 ---
@@ -9,7 +9,7 @@ _"Wacky-quarium is a city builder where you start out building an aquascape to a
 
 {{< cards cols="2" >}}
   {{< card title="Role: Lead Developer" subtitle="Intending to release for PC using Unreal Engine" >}}
-  {{< card image="images/wackyquarium.png" subtitle="Ugly dev build">}}
+  {{< card image="images/wackyquarium.PNG" subtitle="Ugly dev build">}}
 {{< /cards >}}
 
 Wacky-quarium is my current project right now. Currently it's at a state where it's playable, but I'm missing a lot of the key 'fun' mechanics. The plan right now is to build out a prototype to test the 'fun' factor and then find collaborators to help me finish up and add polish.
