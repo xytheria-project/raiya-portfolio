@@ -13,8 +13,6 @@ caches:
 
 relativeURLs: true
 
-canonifyURLs: true
-
 menu:
   main:
     - identifier: games
