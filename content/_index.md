@@ -12,6 +12,6 @@ I like to consider myself well-balanced on the edge between technical and artist
 
 Check out my work to see what I'm about:
 {{< cards cols="2" >}}
-  {{< card link="/games" title="Game Portfolio"  image="images/wackyquarium.PNG" method="Resize" options="800x400 webp">}}
-  {{< card link="/art" title="Art Portfolio"  image="images/aoi_2.png" method="Resize" options="400x200 q100 webp">}}
+  {{< card link="/raiya-portfolio/games" title="Game Portfolio"  image="images/wackyquarium.PNG" method="Resize" options="800x400 webp">}}
+  {{< card link="/raiya-portfolio/art" title="Art Portfolio"  image="images/aoi_2.png" method="Resize" options="400x200 q100 webp">}}
 {{< /cards >}}

@@ -11,8 +11,6 @@ caches:
   images:
     dir: :cacheDir/images
 
-relativeURLs: true
-
 menu:
   main:
     - identifier: games
