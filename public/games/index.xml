@@ -34,7 +34,7 @@
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;http://localhost:1313/images/wackyquarium_hu_cf362259f3c15c4d.webp&#34;
+        src=&#34;../images/wackyquarium_hu_cf362259f3c15c4d.webp&#34;
         width=&#34;800&#34;
         height=&#34;309&#34;
         
@@ -69,7 +69,7 @@
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;http://localhost:1313/images/aoi_2_hu_1e53ab2ebd8a1b26.webp&#34;
+        src=&#34;../images/aoi_2_hu_1e53ab2ebd8a1b26.webp&#34;
         width=&#34;800&#34;
         height=&#34;450&#34;
         
@@ -104,7 +104,7 @@
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;http://localhost:1313/images/clone_hu_e2c3bcfe0ee71d54.webp&#34;
+        src=&#34;../images/clone_hu_e2c3bcfe0ee71d54.webp&#34;
         width=&#34;800&#34;
         height=&#34;450&#34;
         
@@ -138,7 +138,7 @@
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;http://localhost:1313/images/unity_timeline_hu_7548e7706e2f1368.webp&#34;
+        src=&#34;../images/unity_timeline_hu_7548e7706e2f1368.webp&#34;
         width=&#34;800&#34;
         height=&#34;273&#34;
         
@@ -203,7 +203,7 @@
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;http://localhost:1313/images/mika_hu_d4498a81eaf8ce5e.webp&#34;
+        src=&#34;../images/mika_hu_d4498a81eaf8ce5e.webp&#34;
         width=&#34;800&#34;
         height=&#34;619&#34;
         

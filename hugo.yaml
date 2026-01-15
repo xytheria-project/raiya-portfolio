@@ -11,6 +11,10 @@ caches:
   images:
     dir: :cacheDir/images
 
+relativeURLs: true
+
+canonifyURLs: true
+
 menu:
   main:
     - identifier: games
