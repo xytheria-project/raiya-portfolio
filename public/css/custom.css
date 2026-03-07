@@ -165,11 +165,9 @@ a.hextra-card:hover {
     color: #94a6e1;
 }
 
-((-webkit-backdrop-filter:blur(1px)) or (backdrop-filter:blur(1px))) {
-    (color:color-mix(in lab, red, red)) {
-        .hextra-nav-container-blur:where(.dark,.dark *) {
-            background-color: #ddf8fd !important;
-        }
+@supports ((-webkit-backdrop-filter: blur(1px)) or (backdrop-filter: blur(1px))) {
+    .hextra-nav-container-blur:where(.dark,.dark *) {
+        background-color: #94a6e1 !important;
     }
 }
 
