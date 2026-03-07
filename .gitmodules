@@ -3,7 +3,7 @@
 	url = https://github.com/imfing/hextra.git
 [submodule "themes/baguettebox"]
 	path = themes/baguettebox
-	url = https://github.com/owner/baguettebox-repo.git
+	url = https://github.com/feimosi/baguetteBox.js.git
 [submodule "themes/hugo-video"]
 	path = themes/hugo-video
 	url = https://github.com/martignoni/hugo-video.git
