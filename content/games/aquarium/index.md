@@ -9,7 +9,7 @@ _"A city builder strategy game where you build an aquarium and watch fish grow a
 {{< badge content="Lead Developer" color="yellow">}} {{< badge content="Unreal Engine" color="yellow">}} {{< badge content="For PC, Mac" color="yellow">}} {{< badge content="Project Page" link="https://xytheria.itch.io/wackyquarium" icon="github">}}
 
 
-![landscape](building_screen.PNG)
+![landscape](building_screen.png)
 
 {{< gallery >}}
   {{% galimg target="w1.png" title="concept art" /%}}
