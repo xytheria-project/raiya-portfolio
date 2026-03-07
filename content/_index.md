@@ -1,14 +1,14 @@
 ---
 date: '2026-01-14T16:06:47-08:00'
 draft: false
-title: 'about me'
+title: "hi! I'm Raiya"
 ---
 
-{{< badge content="creative" icon="sparkles" color="purple">}} {{< badge content="game developer" icon="sparkles" color="indigo">}} {{< badge content="artist" icon="sparkles" color="blue">}} 
+{{< badge content="game developer" icon="sparkles" color="purple">}} {{< badge content="character artist" icon="sparkles" color="indigo">}} {{< badge content="creative" icon="sparkles" color="blue">}} 
 
-Welcome to my page! I'm Raiya (she/they) and I've been making games and art as a hobby for nearly 10 years. Lately I'm focused on taking my projects to a professional level.
+After years of making games and art as a hobby, I'm focused on taking my projects to a professional level. 
 
-I like to consider myself well-balanced on the edge between technical and artistic, and I love learning new things! (to a fault) 
+I like to consider myself well-balanced on the edge between technical and artistic, and I love learning new things!
 
 Check out my work to see what I'm about:
 {{< cards cols="2" >}}

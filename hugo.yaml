@@ -1,7 +1,7 @@
 baseURL: https://example.org/
 languageCode: en-us
 title: raiya c - portfolio
-theme: hextra
+theme: ["baguettebox", "hextra"]
 params:
   navbar:
     displayTitle: true
