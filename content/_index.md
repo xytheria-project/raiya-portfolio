@@ -4,14 +4,16 @@ draft: false
 title: "hi! I'm Raiya"
 ---
 
-{{< badge content="game developer" icon="sparkles" color="purple">}} {{< badge content="character artist" icon="sparkles" color="indigo">}} {{< badge content="creative" icon="sparkles" color="blue">}} 
+{{< badge content="game developer" color="yellow">}} {{< badge content="character artist" color="yellow">}} {{< badge content="creative" color="yellow">}} 
 
-After years of making games and art as a hobby, I'm focused on taking my projects to a professional level. 
+I'm a Bay Area game developer and artist focused on taking my projects to a professional level. I have a background in software engineering and am now pursuing the artistic side I've been neglecting all these years :) 
 
-I like to consider myself well-balanced on the edge between technical and artistic, and I love learning new things!
+I'm always looking to meet new people and learn new things!
 
-Check out my work to see what I'm about:
-{{< cards cols="2" >}}
-  {{< card link="/raiya-portfolio/games" title="Game Portfolio"  image="images/wackyquarium.PNG" method="Resize" options="800x400 webp">}}
-  {{< card link="/raiya-portfolio/art" title="Art Portfolio"  image="images/aoi_2.png" method="Resize" options="400x200 q100 webp">}}
+things I've been working on recently:
+{{< cards cols="1">}}
+  {{< card link="/raiya-portfolio/games/aquarium" title="wacky-quarium! (2026)" image="images/w1.png" subtitle="build a glorious fish city and follow their stories • **lead developer**">}}
+  {{< card link="/raiya-portfolio/games/facetime" title="Face Time (2026)" image="images/ft1.png" subtitle="rpg maker horror with time loops and pixel art  • **solo developer**" method="Crop" options="800x400 webp">}}
+  {{< card link="/raiya-portfolio/games/agents" title="Agents of Interest (2025)" image="images/aoi_1.png" subtitle="cyberpunk visual novel with secret agents   • **background artist**" method="Resize" options="800x400 q100 webp">}}
 {{< /cards >}}
+

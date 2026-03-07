@@ -147,12 +147,18 @@ aside:where(.dark,.dark *) {
 }
 
 .hextra-badge {
- padding-top: 20px;
+ padding: 20px;
 }
 
 a.hextra-card {
     border: 2px solid #94a6e1;
     background-color: #ddf8fd;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+}
+
+a.hextra-card:hover {
+  opacity: 0.5;
 }
 
 .hextra-card-icon, .hextra-card-subtitle {
@@ -169,10 +175,22 @@ a.hextra-card {
 
 body:where(.dark,.dark *) .content a {
    color: #e7bbe5;
+   opacity: 1;
+    transition: opacity 0.3s ease;
 }
 
 .content a {
    color: #d125cb;
+   opacity: 1;
+   transition: opacity 0.3s ease;
+}
+
+body:where(.dark,.dark *) .content a:hover {
+   opacity: .5;
+}
+
+.content a:hover {
+   opacity: .5;
 }
 
 .hextra-scrollbar a:hover{

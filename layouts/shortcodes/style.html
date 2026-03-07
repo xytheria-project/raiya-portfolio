@@ -1,0 +1,4 @@
+{{ $style := .Get 0 }}
+{{ $style = $style | safeCSS }}
+
+<p style="{{ $style }}">{{ .Inner }}</p>
