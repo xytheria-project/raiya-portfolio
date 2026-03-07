@@ -1,12 +1,16 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: raiya c - portfolio
+title: raiya c.
 theme: ["hugo-video", "baguettebox", "hextra"]
 params:
   navbar:
     displayTitle: true
     displayLogo: false
-
+    logo:
+      path: logo2.svg
+  footer:
+    displayPoweredBy: false
+    displayCopyright: true
 caches:
   images:
     dir: :cacheDir/images
@@ -19,11 +23,27 @@ menu:
       weight: 1
       params:
         type: link
-        icon: collection
     - identifier: art
       name: Art
       pageRef: /art
       weight: 2
       params:
         type: link
-        icon: collection
+    - identifier: bsky
+      url: https://bsky.app/profile/xytheria.bsky.social
+      weight: 3
+      params:
+        type: link
+        icon: bluesky
+    - identifier: instagram
+      url: https://www.instagram.com/xytheria.dev/
+      weight: 4
+      params:
+        type: link
+        icon: instagram
+    - identifier: mail
+      url: https://www.instagram.com/xytheria.dev/
+      weight: 5
+      params:
+        type: link
+        icon: mail

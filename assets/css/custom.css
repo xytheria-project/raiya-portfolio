@@ -101,7 +101,7 @@ h1, path, span, a, .content :where(h1):not(:where([class~=not-prose],[class~=not
    color: #94a6e1;
 }
 
-nav.hextra-toc svg{
+nav.hextra-toc svg {
    background-color: #94a6e1;
 }
 
@@ -114,8 +114,11 @@ nav h1, nav path, nav span, nav a, footer h1, footer path, footer span, footer a
    
 }
 
+nav a:hover {
+   opacity: .5;
+}
 
-footer, .hextra-nav-container-blur, .hextra-nav-container-blur:where(.dark,.dark *), nav {
+footer, footer div, .hextra-nav-container-blur, .hextra-nav-container-blur:where(.dark,.dark *), nav {
    background-color: #94a6e1;
    color: var(--hx-color-gray-100);
 }

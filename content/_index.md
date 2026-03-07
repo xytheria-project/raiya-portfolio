@@ -8,7 +8,7 @@ title: "hi! I'm Raiya"
 
 I'm a Bay Area game developer and artist focused on taking my projects to a professional level. I have a background in software engineering and am now pursuing the artistic side I've been neglecting all these years :) 
 
-I'm always looking to meet new people and learn new things!
+Currently I'm looking for collaborators and for new projects - if you have character art or versatile programming needs, contact me on socials or email linked above.
 
 things I've been working on recently:
 {{< cards cols="1">}}

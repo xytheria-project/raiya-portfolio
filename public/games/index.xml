@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>raiya c - portfolio – Games and related projects</title>
+    <title>raiya c. – Games and related projects</title>
     <link>http://localhost:1313/games/</link>
-    <description>Recent content in Games and related projects on raiya c - portfolio</description>
+    <description>Recent content in Games and related projects on raiya c.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jan 2026 17:03:42 -0800</lastBuildDate>
@@ -37,19 +37,19 @@
  &lt;/svg&gt;
  Project Page&lt;/div&gt;
  &lt;/div&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;building_screen.PNG&#34; alt=&#34;landscape&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;building_screen.png&#34; alt=&#34;landscape&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;div class=&#34;gallery&#34;&gt;
   &lt;a href=&#34;w1.png&#34; title=&#34;concept art&#34;&gt;
       &lt;img src=&#34;http://localhost:1313/games/aquarium/w1_hu_b66f6214ad21e608.png&#34; alt=&#34;concept art&#34;/&gt;
     &lt;/a&gt;
   &lt;a href=&#34;scrimp.png&#34; title=&#34;i LOVE shrimp they are so shrimpy&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/games/aquarium/scrimp_hu_855228f563035ff1.PNG&#34; alt=&#34;i LOVE shrimp they are so shrimpy&#34;/&gt;
+      &lt;img src=&#34;http://localhost:1313/games/aquarium/scrimp_hu_855228f563035ff1.png&#34; alt=&#34;i LOVE shrimp they are so shrimpy&#34;/&gt;
     &lt;/a&gt;
   &lt;a href=&#34;w2.png&#34; title=&#34;mock UI - building interface&#34;&gt;
       &lt;img src=&#34;http://localhost:1313/games/aquarium/w2_hu_4fbcc0c086bd35fb.png&#34; alt=&#34;mock UI - building interface&#34;/&gt;
     &lt;/a&gt;
   &lt;a href=&#34;buildings.png&#34; title=&#34;Building interface&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/games/aquarium/buildings_hu_45589248f164ee39.PNG&#34; alt=&#34;Building interface&#34;/&gt;
+      &lt;img src=&#34;http://localhost:1313/games/aquarium/buildings_hu_45589248f164ee39.png&#34; alt=&#34;Building interface&#34;/&gt;
     &lt;/a&gt;
   &lt;a href=&#34;w3.png&#34; title=&#34;mock UI  - events after you place fish&#34;&gt;
       &lt;img src=&#34;http://localhost:1313/games/aquarium/w3_hu_3f9f23c223f41fac.png&#34; alt=&#34;mock UI  - events after you place fish&#34;/&gt;
@@ -102,10 +102,10 @@
       &lt;img src=&#34;http://localhost:1313/games/facetime/ft2_hu_81fd4171b26cf6a4.png&#34; alt=&#34;Part of the mask on animation&#34;/&gt;
     &lt;/a&gt;
   &lt;a href=&#34;ft3.png&#34; title=&#34;One of the lines I really like from the game&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/games/facetime/ft3_hu_7aa6b51dd37e8ed1.PNG&#34; alt=&#34;One of the lines I really like from the game&#34;/&gt;
+      &lt;img src=&#34;http://localhost:1313/games/facetime/ft3_hu_7aa6b51dd37e8ed1.png&#34; alt=&#34;One of the lines I really like from the game&#34;/&gt;
     &lt;/a&gt;
   &lt;a href=&#34;ft4.png&#34; title=&#34;Game overworld&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/games/facetime/ft4_hu_e9b3d11df8ac05f.PNG&#34; alt=&#34;Game overworld&#34;/&gt;
+      &lt;img src=&#34;http://localhost:1313/games/facetime/ft4_hu_e9b3d11df8ac05f.png&#34; alt=&#34;Game overworld&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/baguetteBox/baguetteBox.min.02493f7a4f23cc659b8562309abdeb984ed166564ab610604eac492bf1d989ad.css&#34;/&gt;
 &lt;script async src=&#34;http://localhost:1313/baguetteBox/baguetteBox.min.e6094e10f77372fa301e0bbed05074efc86135ce08447217fb0304a81f5ac5a5.js&#34;&gt;&lt;/script&gt;
