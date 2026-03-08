@@ -20,17 +20,17 @@ Some panels from my latest comic (not released yet, in the editing process)
 
 {{< gallery >}}
   {{% galimg target="comic_snip6.png" title="my character yearning to feel something" /%}}
-  {{% galimg target="comic_snip3.png" title="my character angry" /%}}
+  {{% galimg target="comic_snip3i.png" title="my character angry" /%}}
   {{% galimg target="comic_snip2.png" title="my character drifting into thought mid-conversation with her boss" /%}}
   {{% galimg target="comic_snip5.png" title="my character self-isolating" /%}}
-  {{% galimg target="comic_snip4.png" title="my character watching people chat and have fun" /%}}
+  {{% galimg target="comic_snip4i.png" title="my character watching people chat and have fun" /%}}
   {{% galimg target="comic_snip1.png" title="full body art of my character" /%}}
 {{< /gallery >}}
 
 Background art pieces, most of these are from Agents of Interest
 
 {{< gallery >}}
-  {{% galimg target="projectm_hotel.png" title="Cyberpunk hotel" /%}}
+  {{% galimg target="hotel.png" title="Cyberpunk hotel" /%}}
   {{% galimg target="Beluga_mq.png" title="Beluga whale" /%}}
   {{% galimg target="projectm_spill_panel2.png" title="Drink getting spilled" /%}}
   {{% galimg target="projectm_beach.png" title="Beach" /%}}
