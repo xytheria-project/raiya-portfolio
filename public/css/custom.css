@@ -47,24 +47,6 @@
   content: "►" / "Next";
 }
 
-.gallery {
-  anchor-name: --my-carousel;
-}
-
-.gallery::scroll-button(*) {
-  position: absolute;
-  position-anchor: --my-carousel;
-}
-
-.gallery::scroll-button(left) {
-  right: calc(anchor(left) - 25px);
-  bottom: calc(anchor(bottom) + 80px);
-}
-
-.gallery::scroll-button(right) {
-  left: calc(anchor(right) - 25px);
-  bottom: calc(anchor(bottom) + 80px);
-}
 
 :root {
   --primary-hue: 226deg;

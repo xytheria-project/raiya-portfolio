@@ -14,6 +14,7 @@ _"A cyberpunk visual novel where you play a secret agent with the power to contr
 **Achievements: Ranked #33 of 121 game jam entries**
 
 {{< gallery >}}
+  {{% galimg target="splash art5.png" title="One of the splash screens I made for the game" /%}}
   {{% galimg target="aoi_1.png" title="Sci-Fi Headquarters" /%}}
   {{% galimg target="aoi3.png" title="Early morning shooting range background" /%}}
   {{% galimg target="aoi4.png" title="Hotel Background" /%}}

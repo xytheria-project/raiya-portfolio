@@ -6,11 +6,12 @@ title: "hi! I'm Raiya"
 
 {{< badge content="game developer" color="yellow">}} {{< badge content="character artist" color="yellow">}} {{< badge content="creative" color="yellow">}} 
 
-I'm a Bay Area game developer and artist focused on taking my projects to a professional level. I have a background in software engineering and am now pursuing the artistic side I've been neglecting all these years :) 
+I'm a Bay Area **game dev** and **artist** trying to take my projects to a professional level.  
+My background is in software engineering and I've been making games as a hobby for years.
 
-Currently I'm looking for collaborators and for new projects - if you have character art or versatile programming needs, contact me on socials or email linked above.
+Currently looking for collaborators and for new projects - if you have character art or versatile programming needs, contact me on socials or email linked above.
 
-things I've been working on recently:
+What I've been working on recently:
 {{< cards cols="1">}}
   {{< card link="/raiya-portfolio/games/aquarium" title="wacky-quarium! (2026)" image="images/w1.png" subtitle="build a glorious fish city and follow their stories • **lead developer**">}}
   {{< card link="/raiya-portfolio/games/facetime" title="Face Time (2026)" image="images/ft1.png" subtitle="rpg maker horror with time loops and pixel art  • **solo developer**" method="Crop" options="800x400 webp">}}
