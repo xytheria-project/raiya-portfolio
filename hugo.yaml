@@ -42,7 +42,7 @@ menu:
         type: link
         icon: instagram
     - identifier: mail
-      url: https://www.instagram.com/xytheria.dev/
+      url: mailto:xytheria@proton.me
       weight: 6
       params:
         type: link
