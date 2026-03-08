@@ -72,5 +72,5 @@ Assets I've done for games - I've done more spritesheets too before but lost the
 
 Some animations in action
 
-{{< video src="pdoctor" autoplay="true" >}}
+{{< video src="_pdoctor" autoplay="true" >}}
 {{< video src="scrimprig" autoplay="true" >}}
