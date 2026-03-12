@@ -3,13 +3,13 @@ date: '2026-01-14T16:06:47-08:00'
 draft: false
 title: "hi! I'm Raiya"
 ---
-
-{{< badge content="game developer" color="yellow">}} {{< badge content="character artist" color="yellow">}} {{< badge content="creative" color="yellow">}} 
+{{< badge content="bluesky" color="email" link="https://bsky.app/profile/xytheria.bsky.social" icon="bluesky">}} {{< badge content="instagram"  link="https://www.instagram.com/xytheria.dev/" icon="instagram">}}  {{< badge content="mail" link="mailto:xytheria@proton.me" icon="mail">}} 
 
 I'm a Bay Area **game dev** and **artist** trying to take my projects to a professional level.  
 My background is in software engineering and I've been making games as a hobby for years.
 
-Currently looking for collaborators and for new projects - if you have character art or versatile programming needs, contact me on socials or email linked above.
+Currently looking for collaborators and for new projects - if you have character art or versatile programming needs, contact me!
+
 
 What I've been working on recently:
 {{< cards cols="1">}}
