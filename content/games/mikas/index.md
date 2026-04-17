@@ -2,7 +2,7 @@
 date: '2026-01-14T18:43:09-08:00'
 draft: false
 title: 'Mikas Forest'
-weight: 7
+weight: 10
 ---
 _"A puzzle game created for Mini Ludum Dare #69 where you flip tiles as other creatures attempt to flip them back, and send creatures of your own to intercept."_
 

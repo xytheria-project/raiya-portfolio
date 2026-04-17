@@ -7,3 +7,6 @@
 [submodule "themes/hugo-video"]
 	path = themes/hugo-video
 	url = https://github.com/martignoni/hugo-video.git
+[submodule "themes/hugo-iframe"]
+	path = themes/hugo-iframe
+	url = https://github.com/ericswpark/hugo-iframe.git

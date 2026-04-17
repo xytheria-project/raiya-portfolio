@@ -2,7 +2,7 @@
 date: '2026-01-14T18:42:40-08:00'
 draft: false
 title: 'Clone'
-weight: 4
+weight: 5
 ---
 _"A puzzle game where a boy gets lost in a forest and finds an alternate version of himself. They work together to find a way out. Along the way, he meets more lost individuals and can choose how to interact with them, leading to multiple endings."_
 

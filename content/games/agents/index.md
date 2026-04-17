@@ -2,7 +2,7 @@
 date: '2026-01-14T18:42:31-08:00'
 draft: false
 title: 'Agents of Interest'
-weight: 3
+weight: 4
 
 ---
 _"A cyberpunk visual novel where you play a secret agent with the power to control time - and maybe those around you."_

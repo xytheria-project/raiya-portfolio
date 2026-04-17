@@ -79,7 +79,7 @@ body:where(.dark,.dark *), .hextra-toc:where(.dark,.dark *) {
     color: var(--hx-color-gray-100);
 }
 
-h1, path, span, a, .content :where(h1):not(:where([class~=not-prose],[class~=not-prose] *)), button, nav.hextra-toc span {
+h1, h3, path, span, a, .content :where(h1):not(:where([class~=not-prose],[class~=not-prose] *)), button, nav.hextra-toc span, .content :where(h3):not(:where([class~=not-prose],[class~=not-prose] *)) {
    color: #94a6e1;
 }
 
@@ -87,7 +87,7 @@ nav.hextra-toc svg {
    background-color: #94a6e1;
 }
 
-h1:where(.dark,.dark *), path:where(.dark,.dark *), span:where(.dark,.dark *), a:where(.dark,.dark *), .content :where(h1):not(:where([class~=not-prose],[class~=not-prose] *)):where(.dark,.dark *) {
+h1:where(.dark,.dark *), path:where(.dark,.dark *), span:where(.dark,.dark *), a:where(.dark,.dark *), .content :where(h1):not(:where([class~=not-prose],[class~=not-prose] *)):where(.dark,.dark *), .content :where(h3):not(:where([class~=not-prose],[class~=not-prose] *)):where(.dark,.dark *) {
    color: var(--hx-color-gray-100);
 }
 

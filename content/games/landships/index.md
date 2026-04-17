@@ -2,7 +2,7 @@
 date: '2026-01-14T18:43:02-08:00'
 draft: false
 title: 'Project Landships'
-weight: 6
+weight: 3
 ---
 _"A co-op multiplayer VR game in which two players control a tank as driver and gunner, and fight against other player-controlled tanks.  "_
 

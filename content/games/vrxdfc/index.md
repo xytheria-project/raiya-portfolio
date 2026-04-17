@@ -2,7 +2,7 @@
 date: '2026-01-14T18:42:53-08:00'
 draft: false
 title: 'Cutscene Production for Behavioral Research'
-weight: 5
+weight: 2
 ---
 _"A research study that used 16 cutscenes to simulate different scenarios from the perspective of a user in a VR social space."_
 

@@ -2,7 +2,7 @@
 date: '2026-03-07T00:02:22-08:00'
 draft: false
 title: 'Face Time'
-weight: 2
+weight: 9
 ---
 _"A pixelized horror game made in RPG Maker, with changing perspectives and time loops."_
 

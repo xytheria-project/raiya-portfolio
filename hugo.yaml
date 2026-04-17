@@ -1,7 +1,7 @@
-baseURL: https://example.org/
+baseURL: https://raiya.xytheria.com/
 languageCode: en-us
 title: raiya c.
-theme: ["hugo-video", "baguettebox", "hextra"]
+theme: ["hugo-iframe", "hugo-video", "baguettebox", "hextra"]
 params:
   navbar:
     displayTitle: true
