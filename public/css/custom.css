@@ -135,6 +135,11 @@ aside:where(.dark,.dark *) {
  padding: 20px;
 }
 
+.hextra-badge a {
+ text-decoration: none;
+
+}
+
 a.hextra-card {
     border: 2px solid #94a6e1;
     background-color: #ddf8fd;
