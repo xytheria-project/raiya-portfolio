@@ -6,7 +6,7 @@ weight: 4
 ---
 _"A puzzle game where a boy gets lost in a forest and finds an alternate version of himself. They work together to find a way out. Along the way, he meets more lost individuals and can choose how to interact with them, leading to multiple endings."_
 
-{{< badge content="Lead Artist" color="yellow">}} {{< badge content="Associate Developer" color="yellow">}} {{< badge content="Unity" color="yellow">}} {{< badge content="For PC, Mac" color="yellow">}} {{< badge content="Project Page" link="https://brian-royston.itch.io/clone" icon="github">}}
+{{< badge content="Lead Artist" color="yellow">}} {{< badge content="Associate Developer" color="yellow">}} {{< badge content="Unity" color="yellow">}} {{< badge content="For PC, Mac" color="yellow">}} {{< badge content="Project Page" link="https://brian-royston.itch.io/clone" icon="github">}} 
 
 ![landscape](clone.jpg)
 											

@@ -6,7 +6,7 @@ weight: 5
 ---
 _"A research study that used 16 cutscenes to simulate different scenarios from the perspective of a user in a VR social space."_
 
-{{< badge content="Lead Programmer" color="yellow">}} {{< badge content="Unity" color="yellow">}} {{< badge content="Project Page" link="https://xytheria.itch.io/mikas-forest" icon="github">}}
+{{< badge content="Lead Programmer" color="yellow">}} {{< badge content="Unity" color="yellow">}}
 
 ![landscape](unity_timeline.png)
 
