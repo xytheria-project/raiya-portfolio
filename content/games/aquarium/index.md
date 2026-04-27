@@ -6,7 +6,7 @@ weight: 1
 ---
 _"A city builder strategy game where you build an aquarium and watch fish grow and change."_
 
-{{< badge content="Lead Developer" color="yellow">}} {{< badge content="Unreal Engine" color="yellow">}} {{< badge content="For PC, Mac" color="yellow">}} {{< badge content="Project Page" link="https://xytheria.itch.io/wackyquarium" icon="github">}}
+{{< badge content="Solo Developer" color="yellow">}} {{< badge content="Unreal Engine" color="yellow">}} {{< badge content="For PC, Mac" color="yellow">}} {{< badge content="Project Page" link="https://xytheria.itch.io/wackyquarium" icon="github">}}
 
 
 ![landscape](building_screen.png)

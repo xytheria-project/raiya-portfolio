@@ -6,7 +6,7 @@ weight: 2
 ---
 _"A research study that used 16 cutscenes to simulate different scenarios from the perspective of a user in a VR social space."_
 
-{{< badge content="Lead Programmer" color="yellow">}} {{< badge content="Unity" color="yellow">}}
+{{< badge content="Tools Programmer" color="yellow">}} {{< badge content="Unity" color="yellow">}}
 
 ![landscape](unity_timeline.png)
 * **Created extension to Unity Timeline API to combine timeline objects with multiple animation and audio tracks**

@@ -6,7 +6,7 @@ weight: 3
 ---
 _"A co-op multiplayer VR game in which two players control a tank as driver and gunner, and fight against other player-controlled tanks.  "_
 
-{{< badge content="Associate Developer" color="yellow">}} {{< badge content="Unity" color="yellow">}} {{< badge content="For Oculus Rift VR" color="yellow">}}
+{{< badge content="Networking Developer" color="yellow">}} {{< badge content="Unity" color="yellow">}} {{< badge content="For Oculus Rift VR" color="yellow">}}
 
 {{< youtube id="taQlqYHo0tM" >}}
 

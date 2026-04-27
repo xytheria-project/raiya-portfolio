@@ -15,8 +15,7 @@ My background is in software engineering and I've been making games as a hobby f
 Currently looking for collaborators and for new projects!
 
 {{< cards cols="1">}}
-  {{< card link="/raiya-portfolio/games/aquarium" title="wacky-quarium! (2026)" image="images/w1.png" subtitle="build a glorious fish city and follow their stories • **lead developer**">}}
-  {{< card link="/raiya-portfolio/games/facetime" title="Face Time (2026)" image="images/ft1.png" subtitle="rpg maker horror with time loops and pixel art  • **solo developer**" method="Crop" options="800x400 webp">}}
-  {{< card link="/raiya-portfolio/games/agents" title="Agents of Interest (2025)" image="images/aoi_1.png" subtitle="cyberpunk visual novel with secret agents   • **background artist**" method="Resize" options="800x400 q100 webp">}}
+  {{< card link="/games/aquarium" title="wacky-quarium! (2026)" image="images/w1.png" subtitle="build a glorious fish city and follow their stories • **lead developer**">}}
+  {{< card link="/games/agents" title="Agents of Interest (2025)" image="images/aoi_1.png" subtitle="cyberpunk visual novel with secret agents   • **background artist**" method="Resize" options="800x400 q100 webp">}}
 {{< /cards >}}
 
