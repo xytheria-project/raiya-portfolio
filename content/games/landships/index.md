@@ -9,7 +9,11 @@ _"A co-op multiplayer VR game in which two players control a tank as driver and 
 {{< badge content="Associate Developer" color="yellow">}} {{< badge content="Unity" color="yellow">}} {{< badge content="For Oculus Rift VR" color="yellow">}}
 
 {{< youtube id="taQlqYHo0tM" >}}
-											
+
+* **Implemented multiplayer lobbies using Photon Unity Networking for Oculus VR tank simulator**
+* **Determined how player transforms, physics-based controls, and projectiles would be networked between clients**
+* **Built proof-of-concepts in Unity networking library and Photon to evaluate best strategy**
+
 For Project Landships, I tested out a variety of different networking options and tuned them. I would create different versions of the Unity project and mess around with settings, for example, changing which objects were tracked by the server or changing how they would communicate with the server, until we found something promising.
 
 This was a multi-year long project run by a club in my university and had substantial work put into it before I joined. I joined for a semester and worked with four other people to make the existing VR tank battle game into a co-op multiplayer game.

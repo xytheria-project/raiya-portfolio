@@ -20,6 +20,10 @@ _"A cyberpunk visual novel where you play a secret agent with the power to contr
   {{% galimg target="aoi4.png" title="Hotel Background" /%}}
   {{% galimg target="aoi5.png" title="Call from Grandmaster" /%}}
 {{< /gallery >}}
+* **Team of 5**
+* **Produced 12+ pieces of background art, splash art, promotional graphics and comic panels**
+* **Used local architecture references and cyberpunk inspiration to design unique backgrounds for game setting**   
+* **Communicated effectively with international developers and artists to follow 1 month release schedule**
 
 For Agents of Interest, I drew the title screen and the 11 backgrounds (non-character work) used throughout the visual novel. I worked with 5 other people who handled the character art, coding, music, writing and project management, and completed these drawings over two weeks. 
 

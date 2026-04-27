@@ -10,10 +10,18 @@ _"Make your parent proud by restoring water to the planet in a 3D fluid and terr
 
 {{< youtube id="6yR8n7gMiBc" >}}
 
+**Achievements: Honorable Mention, Top 10 in Game Jam**
+
 {{< gallery >}}
   {{% galimg target="celestial1.png" title="Example of a level" /%}}
   {{% galimg target="celestial2.png" title="Another level with a button" /%}}
 {{< /gallery >}}
+
+* **Translated mouse input into 3D GPU texture manipulation, integrated with custom runtime fluid simulation**
+* **Delivered level success and gate opening puzzle mechanics utilizing readback of GPU fluid texture height** 
+* **Dynamically altered vertex color on player interaction using custom shaders that read from GPU texture** 
+* **Synthesized dialogue and fluid systems into one gameplay flow, fixed bugs in collaboration with team** 
+
 
 Over GDC, I met some cool people through MAGICAL (Marginalized Genders in Gaming) and we decided to build Celestial Currents for the Unlikely Collaborators Jam. I worked on the terrain editing gameplay and level design, and also helped integrate the fluid simulation and dialogue systems that other people worked on into the game flow. 
 

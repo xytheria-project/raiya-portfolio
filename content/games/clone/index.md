@@ -9,7 +9,12 @@ _"A puzzle game where a boy gets lost in a forest and finds an alternate version
 {{< badge content="Lead Artist" color="yellow">}} {{< badge content="Associate Developer" color="yellow">}} {{< badge content="Unity" color="yellow">}} {{< badge content="For PC, Mac" color="yellow">}} {{< badge content="Project Page" link="https://brian-royston.itch.io/clone" icon="github">}} 
 
 ![landscape](clone.jpg)
-											
+
+* **Developed main character sprites, 3+ NPC sprites, 10+ tiles, 10+ 2D Unity animations and 3 cutscenes**
+* **Incorporated story elements of duality and nature into character designs and color palette**
+* **Contributed C# code for UI dialogue system and tracking player choices for different endings**
+
+
 I drew most of the tiles and characters for Clone and created 2D animations for them in Unity, and keyframed the ending cutscenes. I also implemented the dialogue system and added logic to track character responses and deliver alternate endings. I worked alongside 3 other developers, who did the game logic, puzzle design and some character writing.
 
 Our goal in making this game was to build an interesting puzzle game with a small story element. The box puzzles were inspired by Baba is You and the story element is inspired by Catherine, where you meet NPCs after doing puzzle sections and choose to comfort or chastise them. The player controlling the main character and another character with inverted controls is inspired by old flash games.

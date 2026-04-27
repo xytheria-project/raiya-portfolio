@@ -9,6 +9,10 @@ _"A research study that used 16 cutscenes to simulate different scenarios from t
 {{< badge content="Lead Programmer" color="yellow">}} {{< badge content="Unity" color="yellow">}}
 
 ![landscape](unity_timeline.png)
+* **Created extension to Unity Timeline API to combine timeline objects with multiple animation and audio tracks**
+* **Script detected and merged matching tracks by keyframe within input timelines to create new timeline object**
+* **Streamlined production of 10+ cutscenes for research study, parallelizing team effort and reducing human error**
+
 
 I used Unity Timeline to create cutscenes that would be recorded into videos and used for social research. The cutscenes were each 2-8 minutes long and involved several characters moving in and out of frame, camera panning, voice lines with spatial audio, UI elements, and particle effects. I moved the models to record keyframes and inserted audio or effects as the scripts dictated.
 

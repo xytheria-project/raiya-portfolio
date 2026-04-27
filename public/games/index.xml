@@ -61,9 +61,14 @@
       baguetteBox.run(&#34;.gallery&#34;);
     });
   &lt;/script&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Built future-tolerant data models for player resources, quests, events, and characters and implemented them&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Innovated rapid improvements to game design using paper models and playtester feedback&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Designed, prototyped, conducted social media outreach, and demo-ed project at GDC&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;wacky-quarium! is my current project: right now it&amp;rsquo;s in the prototype phase and I&amp;rsquo;m looking to test out the concepts, see if it&amp;rsquo;s fun, find collaborators, maybe shift stuff around. Check out the project page to see more about it.&lt;/p&gt;
 &lt;p&gt;The inspiration for this game is that a big fan of aquariums (dreaming of shrimp tank) and I&amp;rsquo;m a big fan of city builder games like Frostpunk, Against the Storm, and Everdell. Initially I thought that a city builder based around the delicate balance of managing water quality in an aquarium could be fun, and a good excuse to learn Unreal Engine.&lt;/p&gt;
-&lt;p&gt;Eventually I realized what I really wanted a game where you get to know the individual fish as you build a city for them, and so I&amp;rsquo;ve been evolving the game to reflect that. Now I&amp;rsquo;m approaching concepts more similar to Darkest Dungeon 2 where you choose certain destinations for fish, the fish accumulate quirks and develop bonds between each other; and the resource management is a bit less intense (which allows for the turn based nature).&lt;/p&gt;
+&lt;p&gt;Eventually I realized what I really wanted a game where you get to know the individual fish as you build a city for them, and so I&amp;rsquo;ve been evolving the game to reflect that. Now I&amp;rsquo;m approaching concepts more similar to Darkest Dungeon 2 where you choose certain destinations for fish, the fish accumulate quirks and develop bonds between each other; and the resource management is less intense (which allows for the turn based nature).&lt;/p&gt;
 
       </description>
     </item>
@@ -94,6 +99,7 @@
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/6yR8n7gMiBc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
+&lt;p&gt;&lt;strong&gt;Achievements: Honorable Mention, Top 10 in Game Jam&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&#34;gallery&#34;&gt;
   &lt;a href=&#34;celestial1.png&#34; title=&#34;Example of a level&#34;&gt;
       &lt;img src=&#34;http://localhost:1313/games/celestial/celestial1_hu_36f668c5abcfaabd.png&#34; alt=&#34;Example of a level&#34;/&gt;
@@ -108,6 +114,12 @@
       baguetteBox.run(&#34;.gallery&#34;);
     });
   &lt;/script&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Translated mouse input into 3D GPU texture manipulation, integrated with custom runtime fluid simulation&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Delivered level success and gate opening puzzle mechanics utilizing readback of GPU fluid texture height&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dynamically altered vertex color on player interaction using custom shaders that read from GPU texture&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Synthesized dialogue and fluid systems into one gameplay flow, fixed bugs in collaboration with team&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Over GDC, I met some cool people through MAGICAL (Marginalized Genders in Gaming) and we decided to build Celestial Currents for the Unlikely Collaborators Jam. I worked on the terrain editing gameplay and level design, and also helped integrate the fluid simulation and dialogue systems that other people worked on into the game flow.&lt;/p&gt;
 &lt;p&gt;One of our engineers wrote the fluid simulation GPU code from scratch, which was super cool to work with. I added user interactibility to the texture, level start and success states, transitions to dialogue, and a level designer. I&amp;rsquo;m glad we were able to create a complete experience in a short amount of time, although it&amp;rsquo;s a bit shorter than we would have liked.&lt;/p&gt;
 &lt;p&gt;We were inspired mechanically by games like Where&amp;rsquo;s My Water, and wanted the player to feel a sense of meaning and charm through the narrative and gameplay, as if you&amp;rsquo;re singlehandedly saving and beautifying this planet.&lt;/p&gt;
@@ -131,6 +143,11 @@
    &lt;div class=&#34;hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200&#34;&gt;Unity&lt;/div&gt;
  &lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;unity_timeline.png&#34; alt=&#34;landscape&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Created extension to Unity Timeline API to combine timeline objects with multiple animation and audio tracks&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Script detected and merged matching tracks by keyframe within input timelines to create new timeline object&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Streamlined production of 10+ cutscenes for research study, parallelizing team effort and reducing human error&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;I used Unity Timeline to create cutscenes that would be recorded into videos and used for social research. The cutscenes were each 2-8 minutes long and involved several characters moving in and out of frame, camera panning, voice lines with spatial audio, UI elements, and particle effects. I moved the models to record keyframes and inserted audio or effects as the scripts dictated.&lt;/p&gt;
 &lt;p&gt;The project required certain scenarios to share significant portions of animation so I explored the EditorTools API in Unity and built functionality to cut and paste keyframes, which was pretty useful and enabled me to distribute animation work to the other members of the research group.&lt;/p&gt;
 &lt;hr&gt;
@@ -162,6 +179,11 @@
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/taQlqYHo0tM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Implemented multiplayer lobbies using Photon Unity Networking for Oculus VR tank simulator&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Determined how player transforms, physics-based controls, and projectiles would be networked between clients&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Built proof-of-concepts in Unity networking library and Photon to evaluate best strategy&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;For Project Landships, I tested out a variety of different networking options and tuned them. I would create different versions of the Unity project and mess around with settings, for example, changing which objects were tracked by the server or changing how they would communicate with the server, until we found something promising.&lt;/p&gt;
 &lt;p&gt;This was a multi-year long project run by a club in my university and had substantial work put into it before I joined. I joined for a semester and worked with four other people to make the existing VR tank battle game into a co-op multiplayer game.&lt;/p&gt;
 &lt;p&gt;There were many design challenges associated with this project: for example, the driver and gunner both pulled physics-based levers to control the tank. We had to decide if we wanted the state of the levers to be networked or if it would be local, and both options had drawbacks. A common issue was having the gunner and the driver de-sync and experience different states of the tank location at the same time. There was also the hassle of testing, as we had to use 2-3 computers and 2 people in order to run the multiplayer server and test two Oculus hosts controlling at the same time.&lt;/p&gt;
@@ -217,6 +239,12 @@
       baguetteBox.run(&#34;.gallery&#34;);
     });
   &lt;/script&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Team of 5&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Produced 12+ pieces of background art, splash art, promotional graphics and comic panels&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Used local architecture references and cyberpunk inspiration to design unique backgrounds for game setting&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Communicated effectively with international developers and artists to follow 1 month release schedule&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;For Agents of Interest, I drew the title screen and the 11 backgrounds (non-character work) used throughout the visual novel. I worked with 5 other people who handled the character art, coding, music, writing and project management, and completed these drawings over two weeks.&lt;/p&gt;
 &lt;p&gt;This was my first completed game or art project in several years, and was a good return to what I enjoy about drawing and game development. I utilized real-life references for the external architecture, mainly hotels around my local area, but reimagined the interiors in a futuristic setting. I enjoyed painting the lighting and learned a lot from my references. Most of the story had already been written by the time I joined the team, but in future projects I would love to be more creatively involved with the planning of the game.&lt;/p&gt;
 &lt;p&gt;Agents of Interest features Morgan, a secret agent on a mission to stop catastrophe. Morgan&amp;rsquo;s abilities means that reality bends to her perception - time can bend to her will and enemies can become friends. The game takes inspiration from Cyberpunk 2077 and yuri visual novels with branching paths.&lt;/p&gt;
@@ -249,6 +277,11 @@
  Project Page&lt;/div&gt;
  &lt;/div&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;clone.jpg&#34; alt=&#34;landscape&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Developed main character sprites, 3+ NPC sprites, 10+ tiles, 10+ 2D Unity animations and 3 cutscenes&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Incorporated story elements of duality and nature into character designs and color palette&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contributed C# code for UI dialogue system and tracking player choices for different endings&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;I drew most of the tiles and characters for Clone and created 2D animations for them in Unity, and keyframed the ending cutscenes. I also implemented the dialogue system and added logic to track character responses and deliver alternate endings. I worked alongside 3 other developers, who did the game logic, puzzle design and some character writing.&lt;/p&gt;
 &lt;p&gt;Our goal in making this game was to build an interesting puzzle game with a small story element. The box puzzles were inspired by Baba is You and the story element is inspired by Catherine, where you meet NPCs after doing puzzle sections and choose to comfort or chastise them. The player controlling the main character and another character with inverted controls is inspired by old flash games.&lt;/p&gt;
 &lt;p&gt;For the art direction, I wanted to stick with cool-toned colors to reflect the somber, mystical mood of the game. We wanted the main character Pero to seem like a normal person lost in a strange place, so that went into his relatively simple design with an orange jacket for contrast. I used green and purple as contrasting colors throughout to symbolize the duality of the game: Pero and his clone, comfort or chastise, the two different endings and all that. Also I realize I did something similar in Mika&amp;rsquo;s Forest, somehow this game feels like a spiritual successor to that.&lt;/p&gt;

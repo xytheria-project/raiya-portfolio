@@ -50,7 +50,7 @@ Associate DeveloperUnityFor Oculus Rift VR" /><link rel="canonical" href="http
 Associate DeveloperUnityFor Oculus Rift VR">
   <meta itemprop="datePublished" content="2026-01-14T18:43:02-08:00">
   <meta itemprop="dateModified" content="2026-01-14T18:43:02-08:00">
-  <meta itemprop="wordCount" content="273">
+  <meta itemprop="wordCount" content="310">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Project Landships">
   <meta name="twitter:description" content="“A co-op multiplayer VR game in which two players control a tank as driver and gunner, and fight against other player-controlled tanks. “
@@ -318,6 +318,11 @@ Associate DeveloperUnityFor Oculus Rift VR">
       <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/taQlqYHo0tM?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
     </div>
 
+<ul>
+<li><strong>Implemented multiplayer lobbies using Photon Unity Networking for Oculus VR tank simulator</strong></li>
+<li><strong>Determined how player transforms, physics-based controls, and projectiles would be networked between clients</strong></li>
+<li><strong>Built proof-of-concepts in Unity networking library and Photon to evaluate best strategy</strong></li>
+</ul>
 <p>For Project Landships, I tested out a variety of different networking options and tuned them. I would create different versions of the Unity project and mess around with settings, for example, changing which objects were tracked by the server or changing how they would communicate with the server, until we found something promising.</p>
 <p>This was a multi-year long project run by a club in my university and had substantial work put into it before I joined. I joined for a semester and worked with four other people to make the existing VR tank battle game into a co-op multiplayer game.</p>
 <p>There were many design challenges associated with this project: for example, the driver and gunner both pulled physics-based levers to control the tank. We had to decide if we wanted the state of the levers to be networked or if it would be local, and both options had drawbacks. A common issue was having the gunner and the driver de-sync and experience different states of the tank location at the same time. There was also the hassle of testing, as we had to use 2-3 computers and 2 people in order to run the multiplayer server and test two Oculus hosts controlling at the same time.</p>
