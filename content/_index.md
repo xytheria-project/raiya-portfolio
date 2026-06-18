@@ -1,7 +1,7 @@
 ---
 date: '2026-01-14T16:06:47-08:00'
 draft: false
-title: "hi! I'm Raiya"
+title: "hi, I'm Raiya - game developer, artist and software engineer."
 ---
 {{< badge content="bluesky" link="https://bsky.app/profile/xytheria.bsky.social" icon="bluesky">}} 
 
@@ -9,13 +9,10 @@ title: "hi! I'm Raiya"
 
 {{< badge content="mail" link="mailto:xytheria@proton.me" icon="mail">}} 
 
-I'm a Bay Area **game developer** and **artist** trying to take my projects to a professional level.  
-My background is in software engineering and I've been making games as a hobby for years.
+Check out my games and art portfolio for examples of my work!
 
-Currently looking for collaborators and for new projects!
-
-{{< cards cols="1">}}
-  {{< card link="/games/aquarium" title="wacky-quarium! (2026)" image="images/w1.png" subtitle="build a glorious fish city and follow their stories • **lead developer**">}}
-  {{< card link="/games/agents" title="Agents of Interest (2025)" image="images/aoi_1.png" subtitle="cyberpunk visual novel with secret agents   • **background artist**" method="Resize" options="800x400 q100 webp">}}
+{{< cards cols="2">}}
+  {{< card link="/games/aquarium" title="wacky-quarium! (2026)" image="images/building_screen.png" subtitle="**lead developer** • Unreal Engine city builder • Gameplay design and 3D implementation"  method="Resize" options="800x400 q100 webp">}}
+  {{< card link="/games/agents" title="Agents of Interest (2025)" image="images/aoi_1.png" subtitle="**background artist** • Ren'py visual novel • Backgrounds, splash art and other assets" method="Resize" options="800x400 q100 webp">}}
 {{< /cards >}}
 
